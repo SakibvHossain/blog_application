@@ -14,4 +14,4 @@ Flutter Blog application build using my own backend rest api.
 2. When try to generate adapter failed to generated. (Fixed)
 
 ### Backend
-(View Backend)[https://github.com/SakibvHossain/Blogging_Application_Backend]
+(View Backend) [https://github.com/SakibvHossain/Blogging_Application_Backend]
