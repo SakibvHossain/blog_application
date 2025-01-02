@@ -1,16 +1,14 @@
-# blog_application
+# Blog Application
 
-A new Flutter project.
+Flutter Blog application build using my own backend rest api.
 
-## Getting Started
+### Skill
+1.  Flutter
+2.  Dart
+3.  Rest Api Integration
+4.  Hive (Local Storage)
+5.  Image Caching
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Problem Faced:
+1. When database updated when I try to fetch data gives error. (Fixed) 
+2. When try to generate adapter failed to generated. (Fixed)
