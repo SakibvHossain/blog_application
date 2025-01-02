@@ -28,7 +28,7 @@ A feature-rich Flutter blog application built using a custom backend REST API.
 
 ### **2. Adapter Generation Failure (Hive)**
 - **Problem**: Adapter generation for Hive failed during the build process.
-- **Solution**: Make sure the model file name and the file your trying to generate is same for example: your model name is product.dart then write part'product.g.dart'
+- **Solution**: Make sure the model file name and the file your trying to generate is same for example: your **model** name is `product.dart` then write `part'product.g.dart'`
 
 ---
 
